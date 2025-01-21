@@ -23,7 +23,7 @@ Una billetera digital que permite a los usuarios autenticarse, registrar transac
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/wallet-app.git
+   git clone https://github.com/tuusuario/wallet-test
    ```
 
 ---
